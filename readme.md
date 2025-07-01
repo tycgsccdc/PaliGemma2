@@ -3,9 +3,9 @@
 使用手寫風字體執行OCR測試</br>使用模型:</br>"google/paligemma2-28b-mix-448"</br>"google/paligemma2-3b-mix-224"
 </br>
 3b效果比28b好，結果如output資料夾內</br>
-3b判斷出約7-8成正確文字</br>
+3b僅能判斷出約6-7成正確文字</br>
 
-28b判斷出出異常文字</br>
+28b判斷出出異常文字可以說是無法使用</br>
 
 
 ![小王子](https://s.teachifycdn.com/image/width=1920,quality=80/attachment/public_image/d475e15d-f455-4b94-b8a2-216897658c29/e429b792-1c51-4636-98e4-f2e1cd1baaa5.png)
