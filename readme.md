@@ -8,7 +8,7 @@
 28b判斷出出異常文字</br>
 
 
-![托斯夫人](https://s.teachifycdn.com/image/width=1920,quality=80/attachment/public_image/18058dee-59f8-4bb6-a29b-13b8ea1c6db1/7f4f6e37-535c-48b5-a8dd-5aa84986e27a.png)
+![小王子](https://s.teachifycdn.com/image/width=1920,quality=80/attachment/public_image/d475e15d-f455-4b94-b8a2-216897658c29/e429b792-1c51-4636-98e4-f2e1cd1baaa5.png)
 
 ![＃太宰治](https://s.teachifycdn.com/image/width=1920,quality=80/attachment/public_image/43215c84-b41c-4a7d-b4d4-09006c002a1a/16d53dd0-c7ae-4f7f-86a1-cb8a1783ce14.png)
 
